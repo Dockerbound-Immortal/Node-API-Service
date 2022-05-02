@@ -1,0 +1,5 @@
+node_modules
+*.md
+.env
+.vscode
+.prettierrc
